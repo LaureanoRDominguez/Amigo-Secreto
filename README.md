@@ -1,11 +1,11 @@
-# 🎁 Amigo Secreto
+#Amigo Secreto
 
 Aplicación web sencilla desarrollada con **HTML**, **CSS** y **JavaScript** que permite organizar un sorteo de *Amigo Secreto*.  
 El usuario puede ingresar nombres de amigos en una lista y luego realizar un sorteo aleatorio para determinar quién es el amigo secreto.
 
 ---
 
-## 🚀 Funcionalidades
+#Funcionalidades
 - Agregar nombres a una lista mediante un campo de texto y un botón.
 - Validación: no permite agregar nombres vacíos.
 - Visualización de la lista de amigos ingresados.
@@ -13,7 +13,7 @@ El usuario puede ingresar nombres de amigos en una lista y luego realizar un sor
 
 ---
 
-## 📸 Capturas de pantalla
+#Capturas de pantalla
 
 ### Pantalla principal
 ![Pantalla inicial](assets/amigo-secreto.png)
@@ -21,7 +21,7 @@ El usuario puede ingresar nombres de amigos en una lista y luego realizar un sor
 ### Ejemplo de lista
 ![Prueba](assets/prueba.png)
 
-## 🛠️ Tecnologías usadas
+#Tecnologías usadas
 
 - **HTML5**
 - **CSS3**
